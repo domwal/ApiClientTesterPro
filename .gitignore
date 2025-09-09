@@ -148,4 +148,6 @@ Thumbs.db
 *.bak
 temp/
 tmp/
+
+# Application data files
 collections.json
